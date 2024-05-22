@@ -1,9 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20LuvTheEagleStan!%20;Welcome%20to%20my%20GitHub%20homepage!&font=Roboto" />
 
-
 *LuvTheEagleStan*的主页** .
 - 🏆2006年《时代周刊》风云人物
-- 🏆2008年《感动中国》人物获得者
+- 🏆2008年《感动中国》人物获奖者
 - 🏆2019年联合国地球卫士奖获奖者
 - 🏆2022年国际奥委会“奥林匹克奖杯”获奖者
 - 🏆2023年杭州亚会运数字火炬手
